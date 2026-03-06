@@ -2,6 +2,12 @@
 #Taller 1.2 : Implementación de Modelos Físicos
 
 ---
+## Actividad 7: Sistema de facturación electrónica de la pollería Los Ángeles
+En esta actividad transformamos un modelo Entidad-Relación a un modelo físico en oracle developer 
+
+###diagrama fisico 
+
+
 
 ## Actividad 8: Gimnasio Titanium
 En esta actividad transformamos un modelo Entidad-Relación a un modelo físico en PostgreSQL usando claves foráneas y restricciones.
